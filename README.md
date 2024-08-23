@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Virtual Assistant** is a Python-based application that leverages various libraries to perform a range of tasks, such as fetching information from the web, interacting with APIs, automating desktop tasks, and much more. The assistant is designed to help with daily tasks, providing a voice interface to interact with the system.
+The **Virtual Assistant** is a Python-based application that leverages various libraries to perform a range of tasks, such as fetching information from the web, interacting with APIs, automating desktop tasks, and much more. Here, we have named our virtual assistant as "Saya". The assistant is designed to help with daily tasks, providing a voice interface to interact with the system.
 
 ## Features
 - **Tells current Date and Time**
