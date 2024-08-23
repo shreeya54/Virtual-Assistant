@@ -27,3 +27,11 @@ The **Virtual Assistant** is a Python-based application that leverages various l
 - **Multiple languages can be added to make the assistant accessible to a broader audience.**
 - **More functionalities can be added.**
 - **GUI can be improved.**
+
+## Usage
+- **The assistant can perform various tasks by simply speaking commands.**
+- **You can interact with it by saying "Are you there", "Wake up Saya", "Hey Saya" , "Time to work Saya" followed by your command**
+- **Examples of commands:**
+  - **"What's the weather today?"**
+  - **"Tell me a joke."**
+  - **"Open Google Chrome."**
