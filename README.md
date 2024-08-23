@@ -21,3 +21,9 @@ The **Virtual Assistant** is a Python-based application that leverages various l
 - **Calculate any mathematical expression**
 - **Plays any music on Youtube**
 - **Tells about any person (via Wikipedia)**
+
+## Future Improvements
+- **Advanced NLU capabilities can be integrated to better understand and process user commands.**
+- **Multiple languages can be added to make the assistant accessible to a broader audience.**
+- **More functionalities can be added.**
+- **GUI can be improved.**
